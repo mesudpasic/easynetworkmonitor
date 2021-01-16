@@ -6,8 +6,8 @@ This is my hobby project, and feel free to use it. It's still under development 
 
 To build it you need:
 ----------------------------------
-1.Make sure you install https://nmap.org/npcap/
-2. .net 4.8, VS 2017/2019
-3. install all NuGet packages
-4. compile and run :)
+1.Make sure you install https://nmap.org/npcap/<br/>
+2. .net 4.8, VS 2017/2019<br/>
+3. install all NuGet packages<br/>
+4. compile and run :)<br/>
 
