@@ -11,3 +11,9 @@ To build it you need:
 3. install all NuGet packages<br/>
 4. compile and run :)<br/>
 
+Plan for future development:
+-------------------------------------
+1. exporting data to excel or dump files for network statistics and packet sniffing part<br/>
+2. load offline .cap files<br/>
+3. make it much faster than it’s really now, and improve map view.<br/>
+4. add more settings options, like filtering packets, or monitor specific applications/processes<br/>
