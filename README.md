@@ -11,6 +11,12 @@ To build it you need:
 3. install all NuGet packages<br/>
 4. compile and run :)<br/>
 
+<p>
+  <img src="https://raw.githubusercontent.com/mesudpasic/easynetworkmonitor/main/screenshots/enmps_mapview.png" alt="Map View"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/mesudpasic/easynetworkmonitor/main/screenshots/enmps_gridview.png" alt="Map View"/>
+</p>
+
 Plan for future development:
 -------------------------------------
 1. exporting data to excel or dump files for network statistics and packet sniffing part<br/>
